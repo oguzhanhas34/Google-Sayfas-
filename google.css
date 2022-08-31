@@ -1,0 +1,58 @@
+div{
+    display: block;
+}
+#resim{
+    text-align: center;
+    display: block;
+}
+#arama{
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 0.5%;
+}
+#solkutu{
+    background-color: rgb(126, 229, 218);
+    width: 30%;
+    display: table-cell;
+    vertical-align: inherit;
+    text-align: center;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    padding: 1.055%;
+    margin-left: 5%;
+    float:left;
+}
+#ortakutu{
+    margin-left: 0.3%;
+    padding: 4px ;
+    background-color: rgb(126, 229, 218);
+    display: table-cell;
+    vertical-align: inherit;
+    width: 18%;
+    text-align: center;
+    font-size: normal;
+    float:left;
+    
+}
+#sağkutu{
+    background-color: rgb(98, 179, 170);
+    float: left;
+    padding: 1px;
+    margin-left: 0.3%;
+    text-align: center;
+    display: table-cell;
+    font-size: normal;
+    vertical-align: inherit;
+    width: 38.8%;
+}
+p{
+    display: block;
+    padding-left: 85px;
+    float:left;
+    text-align: center;
+    
+}
